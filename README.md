@@ -10,7 +10,7 @@
  <div align="left">
   <a href="https://github.com/cibellelepore">
  <img altura="100em" src="https://github-readme-stats.vercel.app/api?username=cibellelepore&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img altura="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibellelepore&layout=compact&langs_count=7&theme=radical"/>
+ <img altura="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibellelepore&layout=compact&langs_count=7&theme=radical"/>
 </div>     
 
   ##
