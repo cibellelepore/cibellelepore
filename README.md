@@ -18,9 +18,7 @@
 <div>   
  <a href = "mailto:cibellelepore@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=yellow" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/cibellelepore/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=yellow" target="_blank"></a>
-    
-    ! [Animação cobra] (https://github.com/cibellelepore/cibellelepore/blob/output/github-contribution-grid-snake.svg)
-     
+       
  </div>
      
 <!---
